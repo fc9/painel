@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bd55a6e-b512-408e-8341-4645bdfa9116" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iy6FEcqaUYNq9RVv6JaDvvF5qv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docs/template/Source" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd55a6e-b512-408e-8341-4645bdfa9116" name="Default Changelist" comment="" />
+      <created>1602867379562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602867379562</updated>
+      <workItem from="1602867380725" duration="2524000" />
+      <workItem from="1602871080944" duration="267000" />
+      <workItem from="1602871929965" duration="2329000" />
+      <workItem from="1602990423443" duration="2037000" />
+      <workItem from="1603078818275" duration="2516000" />
+      <workItem from="1603155650789" duration="13026000" />
+      <workItem from="1603196648334" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1068" y="373" width="451" height="373" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603172701768">
+      <screen x="48" y="25" width="2512" height="1055" />
+    </state>
+    <state x="1068" y="373" width="451" height="373" key="#com.intellij.fileTypes.FileTypeChooser/48.25.2512.1055@48.25.2512.1055" timestamp="1603172701768" />
+    <state x="1140" y="367" width="318" height="377" key="FileChooserDialogImpl" timestamp="1603155807182">
+      <screen x="48" y="25" width="2512" height="1055" />
+    </state>
+    <state x="1140" y="366" width="318" height="377" key="FileChooserDialogImpl/48.23.2512.1057@48.23.2512.1057" timestamp="1602990419470" />
+    <state x="1140" y="367" width="318" height="377" key="FileChooserDialogImpl/48.25.2512.1055@48.25.2512.1055" timestamp="1603155807182" />
+    <state width="2474" height="290" key="GridCell.Tab.0.bottom" timestamp="1602871029594">
+      <screen x="48" y="23" width="2512" height="1057" />
+    </state>
+    <state width="2474" height="290" key="GridCell.Tab.0.bottom/48.23.2512.1057@48.23.2512.1057" timestamp="1602871029594" />
+    <state width="2474" height="290" key="GridCell.Tab.0.center" timestamp="1602871029594">
+      <screen x="48" y="23" width="2512" height="1057" />
+    </state>
+    <state width="2474" height="290" key="GridCell.Tab.0.center/48.23.2512.1057@48.23.2512.1057" timestamp="1602871029594" />
+    <state width="2474" height="290" key="GridCell.Tab.0.left" timestamp="1602871029594">
+      <screen x="48" y="23" width="2512" height="1057" />
+    </state>
+    <state width="2474" height="290" key="GridCell.Tab.0.left/48.23.2512.1057@48.23.2512.1057" timestamp="1602871029594" />
+    <state width="2474" height="290" key="GridCell.Tab.0.right" timestamp="1602871029594">
+      <screen x="48" y="23" width="2512" height="1057" />
+    </state>
+    <state width="2474" height="290" key="GridCell.Tab.0.right/48.23.2512.1057@48.23.2512.1057" timestamp="1602871029594" />
+    <state x="289" y="276" width="900" height="737" key="SettingsEditor" timestamp="1603196677919">
+      <screen x="48" y="25" width="2512" height="1055" />
+    </state>
+    <state x="289" y="274" width="773" height="562" key="SettingsEditor/48.23.2512.1057@48.23.2512.1057" timestamp="1603078874939" />
+    <state x="289" y="276" width="900" height="737" key="SettingsEditor/48.25.2512.1055@48.25.2512.1055" timestamp="1603196677919" />
+    <state x="1033" y="477" width="531" height="155" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602868809952">
+      <screen x="48" y="23" width="2512" height="1057" />
+    </state>
+    <state x="1033" y="477" width="531" height="155" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/48.23.2512.1057@48.23.2512.1057" timestamp="1602868809952" />
+  </component>
+</project>
