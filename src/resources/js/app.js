@@ -1,5 +1,3 @@
-// require('./bootstrap');
-
 // 3rd Parties
 import './bootstrap'
 import './chart'
